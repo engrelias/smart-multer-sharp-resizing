@@ -1,0 +1,27 @@
+{
+  "name": "smart-multer-sharp-resizing",
+  "version": "1.0.5",
+  "description": "Resize image with node.js, multer.js and sharp.js",
+  "main": "index.js",
+  "homepage": "https://github.com/engrelias/smart-multer-sharp-resizing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/engrelias/smart-multer-sharp-resizing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/engrelias/smart-multer-sharp-resizing/issues"
+  },
+  "keywords": [
+    "resize",
+    "node.js",
+    "sharp.js",
+    "multer.js",
+    "resize image with node.js, multer.js and sharp.js "
+  ],
+  "author": "Mohammad Oftadeh <elias.jabed@gmail.com> (https://www.linkedin.com/in/eliasjabed/)",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "sharp": "^0.31.2"
+  }
+}
